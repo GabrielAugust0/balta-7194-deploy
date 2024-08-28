@@ -1,0 +1,5 @@
+dotnet ef database update - realiza a migração para o banco de dados
+
+dotnet add package Microsoft.AspNetCore.Authentication - Instala pacote de autenticação e autorização
+
+dotnet add package Microsoft.AspNetCore.AuthenticationJwtBearer --version 8.0.8 - Pacote que utiliza o padrão do token Jwt 
